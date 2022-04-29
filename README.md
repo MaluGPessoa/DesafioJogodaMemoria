@@ -1,2 +1,7 @@
-<font color="green">##Desafio Jogo da Memoria</font>
-<p style='color:red'>This is some red text.</p>
+# Desafio jogo da memória
+
+**_Lista do todo_**:
+- Estudar Javascript
+- Estudar HTML
+- Praticar
+- Coding
