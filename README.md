@@ -3,5 +3,6 @@
 **_Lista do todo_**:
 - Estudar Javascript
 - Estudar HTML
+- Estudar CSS
 - Praticar
 - Coding
